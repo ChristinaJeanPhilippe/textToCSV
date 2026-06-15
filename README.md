@@ -30,3 +30,36 @@ The pipeline supports scalable preprocessing for enterprise-level documentation 
 ---
 
 ## Example Input
+"The manufacturing workflow failed during calibration validation!!!"
+
+
+## Example Output
+
+| cleaned_text |
+|--------------|
+| manufacturing workflow failed calibration validation |
+
+---
+
+## Tech Stack
+
+- Python
+- Pandas
+- Regex (re module)
+- CSV data processing
+- NLP preprocessing techniques
+
+---
+
+## Use Cases
+
+- NLP dataset preparation
+- AI training data pipelines
+- Annotation system preprocessing
+- Knowledge base structuring
+- Text classification workflows
+
+---
+
+## Project Structure
+Raw Text → Cleaning → Normalization → CSV Output → Annotation System
