@@ -61,5 +61,3 @@ The pipeline supports scalable preprocessing for enterprise-level documentation 
 
 ---
 
-## Project Structure
-Raw Text → Cleaning → Normalization → CSV Output → Annotation System
